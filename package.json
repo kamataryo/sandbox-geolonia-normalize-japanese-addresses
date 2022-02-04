@@ -1,0 +1,10 @@
+{
+  "name": "sandbox-geolonia-normalize-japanese-addresses",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kamataryo <kamataryo@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@geolonia/normalize-japanese-addresses": "^2.5.6"
+  }
+}
